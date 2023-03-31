@@ -16,7 +16,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :telescope: Currently a Tech Trainee at La Fosse Academy, doing a full stack development course.
 
-- :seedling: Learning React :react: 
+- :seedling: Learning React! 
 
 - :speech_balloon: Love learning languages, besides programming languages I also know Mandarin, French and British Sign Language.
 
