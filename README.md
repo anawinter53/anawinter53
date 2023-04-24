@@ -44,7 +44,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" **alt="Jest" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/374167/vite.svg" title="Vite" **alt="Vite" width="40" height="40"/>&nbsp;
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvitest.dev%2F&psig=AOvVaw3aQwrBMLpNtpDDW1EpUnnD&ust=1682408477338000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMj8_Y6Cwv4CFQAAAAAdAAAAABAE" title="Vitest" **alt="Vitest" width="40" height="40"/>&nbsp;
+  <img src="https://vitest.dev/logo-shadow.svg" title="Vitest" **alt="Vitest" width="40" height="40"/>&nbsp;
 </div>
 
 ---
