@@ -14,17 +14,17 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from London, UK.
 
-- :telescope: Currently a Systems & Data Administrator at La Fosse.
+- :telescope: Currently a Systems & Data Administrator at La Fosse
 
 - :seedling: Learning test principles for ISTQB qualification
 
-- :speech_balloon: Love learning languages, besides programming languages I also know Mandarin, French and British Sign Language.
+- :speech_balloon: Love learning languages, besides programming languages I also know Mandarin, French and British Sign Language
 
 - :zap: In my free time, I enjoy boxing, weightlifting and powerlifting!
 
-- :woman_teacher: I'm a career switcher! I switched careers from working in childcare and education, specifically special needs education.
+- :woman_teacher: I'm a career switcher! I switched careers from working in childcare and education, specifically special needs education
 
-- :mailbox: Here's how to reach me [![Linkedin Badge](https://img.shields.io/badge/-Anatolia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anatolia-winter/)
+- :mailbox: Here's how to reach me - [![Linkedin Badge](https://img.shields.io/badge/-Anatolia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anatolia-winter/)
 
 ---
 
