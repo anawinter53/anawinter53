@@ -47,7 +47,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://www.svgrepo.com/show/374167/vite.svg" title="Vite" **alt="Vite" width="40" height="40"/>&nbsp;
   <img src="https://vitest.dev/logo-shadow.svg" title="Vitest" **alt="Vitest" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="Pytest" **alt="Pytest" width="40" height="40"/>&nbsp;
-</div>
+</div> 
 
 ---
 
