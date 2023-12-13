@@ -10,13 +10,13 @@
 
 ---
 
-### :woman_technologist: About Me :
+### :woman_technologist: About Me
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from London, UK.
 
-- :telescope: Currently a Tech Trainee at La Fosse Academy, doing a full stack development course.
+- :telescope: Currently a Systems & Data Administrator at La Fosse.
 
-- :seedling: Learning Go & theories behind data structures!
+- :seedling: Learning test principles for ISTQB qualification
 
 - :speech_balloon: Love learning languages, besides programming languages I also know Mandarin, French and British Sign Language.
 
@@ -51,7 +51,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### :fire: My Stats :
+### :fire: My Stats
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anawinter53&theme=tokyonight-duo&hide_border=true&&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
