@@ -14,7 +14,7 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from London, UK.
 
-- :telescope: Currently a Systems & Data Administrator at La Fosse
+- :telescope: Currently a Systems & Data Engineer at La Fosse
 
 - :seedling: Learning test principles for ISTQB qualification
 
