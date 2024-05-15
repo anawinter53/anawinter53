@@ -12,11 +12,11 @@
 
 ### :woman_technologist: About Me
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from London, UK.
+I am a Systems & Data Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from London, UK.
 
-- :telescope: Currently a Systems & Data Engineer at La Fosse
+- :telescope: Currently working at a recruitment company within systems & data engineering teams
 
-- :seedling: Learning test principles for ISTQB qualification
+- :seedling: Learning test principles for ISTQB qualification + chugging through a MSc in Computer Science & Data Analytics
 
 - :speech_balloon: Love learning languages, besides programming languages I also know Mandarin, French and British Sign Language
 
